@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img alt="React" src="[https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/any_text-you_like-blue)" />
-
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikun-moxiaofei&show_icons=true&theme=radical)
 
 <!--
