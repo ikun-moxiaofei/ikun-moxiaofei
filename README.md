@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <img alt="React" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=Java&logoColor=white" />
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikun-moxiaofei&show_icons=true&theme=radical)
 
